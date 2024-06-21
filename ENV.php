@@ -1,1 +1,0 @@
-$apiKey = 'AIzaSyAw_zpZt1YIVWmXqU_4BiRIazIGrg7Bh3A';
